@@ -1,7 +1,9 @@
----
-# An instance of the Portfolio widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: portfolio
++++
+# A Projects section created with the Portfolio widget.
+widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = false  # Activate this widget? true/false
+weight = 65  # Order that this section will appear.
 
 # This file represents a page section.
 headless: true

@@ -6,11 +6,19 @@ widget: contact
 # This file represents a page section.
 headless: true
 
-# Order that this section appears on the page.
-weight: 130
+# Automatically link email and phone?
+autolink = false
 
-title: Contact
-subtitle:
+# Email form provider
+#   0: Disable email form
+#   1: Netlify (requires that the site is hosted by Netlify)`
+#   2: formspree.io
+email_form = 0
+
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["20px", "0", "20px", "0"]
++++
 
 content:
   # Automatically link email and phone or display as text?

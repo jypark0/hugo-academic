@@ -1,7 +1,9 @@
----
-# An instance of the Featurette widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: featurette
++++
+# A Skills section created with the Featurette widget.
+widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = false  # Activate this widget? true/false
+weight = 30  # Order that this section will appear.
 
 # This file represents a page section.
 headless: true
