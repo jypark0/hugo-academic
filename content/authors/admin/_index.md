@@ -70,13 +70,13 @@ user_groups: []
 
 Hello! 
 I am a first-year Ph.D. student at Northeastern University's [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/) where I am advised by [Prof. Rose Yu](http://roseyu.com/).
-My research interests broadly lie in the fields of tensor methods, deep learning, and optimization. 
-I am especially interested in developing algorithms to learn faster by leveraging the structure of data without losing too much accuracy.
+My research interests broadly lie in the fields of stochastic processes, deep learning, and optimization. I have worked on projects about tensor methods and GANs for inverse problems. I am especially interested in developing algorithms to learn faster by leveraging the structure of data without losing too much accuracy.
 
 Before coming to Northeastern, I worked as a software engineer and systems administrator at [Samsung Electronics](https://www.samsung.com/semiconductor/) in the semiconductor division.
-I administered the internal cloud platform's infrastructure and helped expand it to multiple sites and received the Achievement Prize for my work. I also dabbled with containerization and Kubernetes. I implemented a new ETL tool for manufacturing data and developed APIs and client libraries for big data analysis of manufacturing data.
+I administered the internal cloud platform's infrastructure and helped expand it to multiple sites. I also dabbled with containerization and Kubernetes. I implemented a faster ETL tool for manufacturing data and developed APIs and client libraries for big data analysis.
 
 I graduated from [KAIST](https://www.kaist.ac.kr/en) with the M.S and B.S. degrees in Industrial Systems Engineering. 
+For my B.S. thesis, I modeled the derivative loan structure of the Diamond Fund case and analyzed its risk exposure with simulations.
 During my M.S., I researched prediction models for complex semiconductor tools and focused on the tradeoff between accuracy and computation. 
 I developed a new prediction model that is accurate and generalizes well, with little extra computational complexity.
 
