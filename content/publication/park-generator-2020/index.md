@@ -1,19 +1,21 @@
 ---
-title: "On the Consequences of Un-Modeled Dynamics to the Optimality of Schedules in Clustered Photolithography Tools"
+title: "Generator Surgery for Compressed Sensing"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors: 
-- Hyeong-Ook Kim
-- Se-Hyeon Park
 - Jung Yeon Park
-- James R. Morrison
+- Niklas Smedemark-Margulies
+- Max Daniels
+- Rose Yu
+- Jan-Willem van de Meent
+- Paul Hand
 
-date: "2019-12-01T00:00:00Z"
+date: "2020-10-23T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-07-08T22:04:19.812860Z
+publishDate: 2020-10-23T22:17:22.420747Z
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -22,30 +24,29 @@ publishDate: 2020-07-08T22:04:19.812860Z
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*2019 Winter Simulation Conference (WSC)*"
-publication_short: In *WSC 2019*
+publication: "*NeurIPS 2020 Workshop on Deep Learning and Inverse Problems*"
+publication_short: In *NeurIPS Workshop 2020*
 
-abstract: "Clustered photography tools (CPTs) are very complex and can substantially influence the throughput of wafer fabrication facilities. Therefore, efficient lot scheduling for CPTs can directly improve fab performance. In this paper, we develop mixed integer linear programs for linear, affine, exit recursion, and flow line models of CPTs to optimize schedules with respect to mean cycle time, makespan, and tardiness. We simulate a true CPT using a flow line and solve the MILPs for other above mentioned, reduced models. Schedules from reduced models are then input into the flow line optimization model in order to evaluate the loss. Using numerical experiments, we show that exit recursion models outperform other models. Under time limits, exit recursion models exhibit at least 6% better performance than flow lines for large problems on cycle time."
+abstract: "Recent work has explored the use of generator networks with low latent dimension as signal priors for image recovery in compressed sensing. However, the recovery performance of such models is limited by high representation error. We introduce a method to reduce the representation error of such generator signal priors by cutting one or more initial blocks at test time and optimizing over the resulting higher- dimensional latent space. Experiments demonstrate significantly improved recovery for a variety of architectures. This approach also works well for out-of-training- distribution images and is competitive with other state-of-the-art methods. Our experiments show that test-time architectural modifications can greatly improve the recovery quality of generator signal priors for compressed sensing."
 
 tags: 
-- WSC
+- NeurIPS 2020
 
 # Display this page in the Featured widget?
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: arXiv
+  url: 'https://arxiv.org/pdf/2102.11163.pdf'
 
-url_pdf: 'kim-consequences-2019'
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+url_pdf: 'https://openreview.net/forum?id=s2EucjZ6d2s'
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: ''
+# url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -70,4 +71,3 @@ projects: []
 slides: ""
 
 ---
-

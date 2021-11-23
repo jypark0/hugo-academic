@@ -2,11 +2,10 @@
 # An instance of the Featured widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featured
+active: false
 
-widget = "publications"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 80  # Order that this section will appear.
+# This file represents a page section.
+headless: true
 
 # Order that this section appears on the page.
 weight: 80

@@ -2,11 +2,10 @@
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
+active: false
 
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
+# This file represents a page section.
+headless: true
 
 # Order that this section appears on the page.
 weight: 60
