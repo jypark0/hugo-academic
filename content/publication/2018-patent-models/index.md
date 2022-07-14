@@ -13,7 +13,7 @@ authors:
 date: "2018-06-05T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-07-08T18:10:58Z"
+publishDate: ""
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

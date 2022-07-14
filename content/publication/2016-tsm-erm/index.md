@@ -9,7 +9,7 @@ authors:
   - Kyungsu Park
   - James R. Morrison
 
-date: "2017-02-01T00:00:00Z"
+date: "2016-10-21T00:00:00Z"
 doi: "10.1109/TSM.2016.2618894"
 
 # Schedule page publish date (NOT publication's date).
@@ -37,7 +37,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: '2017-tsm-erm.pdf'
+url_pdf: '2016-tsm-erm.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
