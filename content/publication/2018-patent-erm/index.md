@@ -6,14 +6,14 @@ title: "Exit Recursion Models of Clustered Photolithography Tools for Fab Level 
 # and it will be replaced with their full name and linked to their profile.
 authors: 
 - James R. Morrison
-- Jung Yeon Park
+- admin
 - Kyungsu Park
 - Sang Yoon Bae
 
 date: "2018-07-31T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-07-08T18:10:58-04:00
+publishDate: ''
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -24,8 +24,7 @@ publication_types: ["8"]
 # Publication name and optional abbreviated publication name.
 publication: "South Korea Patent Office, 1018856190000"
 
-tags: 
-- patent
+tags: []
 
 # Display this page in the Featured widget?
 featured: false

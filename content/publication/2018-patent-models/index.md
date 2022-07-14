@@ -1,34 +1,30 @@
 ---
-title: "On the Consequences of Un-Modeled Dynamics to the Optimality of Schedules in Clustered Photolithography Tools"
+title: "Models of Photolithography Tools for Fab- Level Simulation: From Affine to Flow Line"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors: 
-- Hyeong-Ook Kim
-- Se-Hyeon Park
-- Jung Yeon Park
 - James R. Morrison
+- admin
+- Kyungsu Park
+- Sang Yoon Bae
 
-date: "2019-12-01T00:00:00Z"
+date: "2018-06-05T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-07-08T22:04:19.812860Z
+publishDate: "2020-07-08T18:10:58Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["8"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*2019 Winter Simulation Conference (WSC)*"
-publication_short: In *WSC 2019*
+publication: "South Korea Patent Office, 1018668570000"
 
-abstract: "Clustered photography tools (CPTs) are very complex and can substantially influence the throughput of wafer fabrication facilities. Therefore, efficient lot scheduling for CPTs can directly improve fab performance. In this paper, we develop mixed integer linear programs for linear, affine, exit recursion, and flow line models of CPTs to optimize schedules with respect to mean cycle time, makespan, and tardiness. We simulate a true CPT using a flow line and solve the MILPs for other above mentioned, reduced models. Schedules from reduced models are then input into the flow line optimization model in order to evaluate the loss. Using numerical experiments, we show that exit recursion models outperform other models. Under time limits, exit recursion models exhibit at least 6% better performance than flow lines for large problems on cycle time."
-
-tags: 
-- WSC
+tags: []
 
 # Display this page in the Featured widget?
 featured: false
@@ -38,7 +34,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'kim-consequences-2019'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -70,4 +66,3 @@ projects: []
 slides: ""
 
 ---
-

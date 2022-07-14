@@ -5,7 +5,7 @@
 
 title: Jung Yeon Park # Website name
 baseurl: "https://jypark0.github.io/" # Website URL
-copyright: "" # Footer text, e.g. '© {year} Me'
+copyright: "© {year} Jung Yeon Park" # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
@@ -66,3 +66,9 @@ related:
       weight: 100
     - name: categories
       weight: 70
+security:
+  _merge: deep
+  funcs:
+    getenv:
+      - ^HUGO_
+      - ^WC_

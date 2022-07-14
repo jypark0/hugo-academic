@@ -26,7 +26,7 @@ education:
   courses:
   - course: Ph.D. in Computer Science
     institution: Northeastern University
-    year: 
+    year: 2019 ~ present
   - course: M.S. in Industrial & Systems Engineering
     institution: KAIST
     year: 2016
@@ -63,13 +63,15 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
+highlight_name: true
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: []
 ---
 
-I am a Ph.D. student at the [GRAIL Lab](https://www.ccs.neu.edu/home/lsw/grail.html) at Northeastern University, advised by Professor [Lawson Wong](https://www.ccs.neu.edu/home/lsw/). 
+I am a Ph.D. student at the [GRAIL Lab](https://www.ccs.neu.edu/home/lsw/grail.html) at Northeastern University, advised by Professor [Lawson Wong](https://www.ccs.neu.edu/home/lsw/).
 I received my B.S. and M.S. at KAIST and researched prediction models for complex semiconductor tools.
-Before coming to Northeastern, I worked as a software engineer and systems administrator at Samsung Electronics. 
+Before coming to Northeastern, I worked as a software engineer and systems administrator at Samsung Electronics.
 Previously I've worked on multiresolution tensor models for spatial modeling and on using generative models as priors for inverse imaging problems.
-I am currently interested in model-based reinforcment learning and representation learning. 
+I am currently interested in model-based reinforcment learning and representation learning.
