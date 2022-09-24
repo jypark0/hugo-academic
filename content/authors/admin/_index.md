@@ -10,7 +10,7 @@ role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: GRAIL Lab, Northeastern University
+- name: Northeastern University
   url: "https://www.ccs.neu.edu/home/lsw/grail.html"
 
 # Short bio (displayed in user profile at end of posts)
@@ -18,8 +18,8 @@ bio: ""
 
 interests:
 - Model-based Reinforcement Learning
+- Symmetry and Equivariance
 - Representation Learning
-- Generative Modeling
 
 # Education to show in About widget
 education:
@@ -42,12 +42,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/jung-yeon-park/ 
-# - icon: twitter
+# - icon: linkedin
 #   icon_pack: fab
-#   link: https://twitter.com/park_jungy
+#   link: https://www.linkedin.com/in/jung-yeon-park/ 
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/park_jungy
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=LZSRm9sAAAAJ&hl=en&oi=sra
@@ -70,8 +70,8 @@ highlight_name: true
 user_groups: []
 ---
 
-I am a Ph.D. student at the [GRAIL Lab](https://www.ccs.neu.edu/home/lsw/grail.html) at Northeastern University, advised by Professor [Lawson Wong](https://www.ccs.neu.edu/home/lsw/).
+I am a Ph.D. student at the [GRAIL Lab](https://www.ccs.neu.edu/home/lsw/grail.html) and Geometric Learning Lab at Northeastern University, co-advised by [Lawson Wong](https://www.ccs.neu.edu/home/lsw/) and [Robin Walters](https://www.khoury.northeastern.edu/people/robin-walters/).
 I received my B.S. and M.S. at KAIST and researched prediction models for complex semiconductor tools.
 Before coming to Northeastern, I worked as a software engineer and systems administrator at Samsung Electronics.
 Previously I've worked on multiresolution tensor models for spatial modeling and on using generative models as priors for inverse imaging problems.
-I am currently interested in model-based reinforcment learning and representation learning.
+I am currently interested in model-based reinforcement learning and how to use equivariant neural networks effectively for efficient learning.
