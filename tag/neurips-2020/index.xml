@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NeurIPS 2020 | Jung Yeon Park</title>
+    <link>https://jypark0.github.io/tag/neurips-2020/</link>
+      <atom:link href="https://jypark0.github.io/tag/neurips-2020/index.xml" rel="self" type="application/rss+xml" />
+    <description>NeurIPS 2020</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 23 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jypark0.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>NeurIPS 2020</title>
+      <link>https://jypark0.github.io/tag/neurips-2020/</link>
+    </image>
+    
+    <item>
+      <title>Generator Surgery for Compressed Sensing</title>
+      <link>https://jypark0.github.io/publication/park-generator-2020/</link>
+      <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://jypark0.github.io/publication/park-generator-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
