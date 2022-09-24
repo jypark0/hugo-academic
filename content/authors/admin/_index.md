@@ -27,6 +27,9 @@ education:
   - course: Ph.D. in Computer Science
     institution: Northeastern University
     year: 2019 ~ present
+  - course: M.S. in Computer Science
+    institution: Northeastern University
+    year: 2022
   - course: M.S. in Industrial & Systems Engineering
     institution: KAIST
     year: 2016
