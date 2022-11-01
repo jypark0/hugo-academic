@@ -29,8 +29,8 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://arxiv.org/abs/2210.09337'
+url_code: 'https://github.com/jypark0/bmil'
 url_dataset:
 url_poster:
 url_project:
