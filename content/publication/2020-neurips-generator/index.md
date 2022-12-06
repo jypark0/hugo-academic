@@ -40,16 +40,16 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: arXiv
+- name: Long preprint
   url: 'https://arxiv.org/pdf/2102.11163.pdf'
 
 url_pdf: 'https://openreview.net/forum?id=s2EucjZ6d2s'
-# url_dataset: ''
-# url_poster: ''
-# url_project: ''
-# url_slides: ''
-# url_source: ''
-# url_video: ''
+url_dataset: ''
+url_poster: 'publication/2020-neurips-generator/poster.pdf'
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

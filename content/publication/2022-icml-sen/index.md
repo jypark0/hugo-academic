@@ -39,7 +39,7 @@ featured: true
 url_pdf: 'https://arxiv.org/abs/2204.11371'
 url_code: 'https://github.com/jypark0/sen'
 url_dataset:
-url_poster:
+url_poster: 'publication/2022-icml-sen/poster.pdf'
 url_project:
 url_slides:
 url_source:

@@ -32,7 +32,7 @@ featured: true
 url_pdf: 'https://arxiv.org/abs/2210.09337'
 url_code: 'https://github.com/jypark0/bmil'
 url_dataset:
-url_poster:
+url_poster: 'publication/2022-neurips-bmil/poster.pdf'
 url_project:
 url_slides:
 url_source:
