@@ -17,7 +17,7 @@ organizations:
 bio: ""
 
 interests:
-- Model-based Reinforcement Learning
+- Deep Reinforcement Learning
 - Symmetry and Equivariance
 - Representation Learning
 
@@ -73,8 +73,7 @@ highlight_name: true
 user_groups: []
 ---
 
-I am a Ph.D. student at the [GRAIL Lab](https://www.ccs.neu.edu/home/lsw/grail.html) and Geometric Learning Lab at Northeastern University, co-advised by [Lawson Wong](https://www.ccs.neu.edu/home/lsw/) and [Robin Walters](https://www.khoury.northeastern.edu/people/robin-walters/).
-I received my B.S. and M.S. at KAIST and researched prediction models for complex semiconductor tools.
-Before coming to Northeastern, I worked as a software engineer and systems administrator at Samsung Electronics.
-Previously I've worked on multiresolution tensor models for spatial modeling and on using generative models as priors for inverse imaging problems.
-I am currently interested in model-based reinforcement learning and how to use equivariant neural networks effectively for efficient learning.
+I am a Ph.D. candidate at the [GRAIL Lab](https://www.ccs.neu.edu/home/lsw/grail.html) and Geometric Learning Lab at Northeastern University, advised by [Lawson Wong](https://www.ccs.neu.edu/home/lsw/) and [Robin Walters](https://www.khoury.northeastern.edu/people/robin-walters/).
+My research interests are in deep reinforcement learning and symmetry. I aim to apply strong inductive biases like symmetry to learning algorithms so that they can be more efficient and generalize. I've also worked on making imitation learning more robust with learned dynamics models and on multiresolution tensor models for spatial analysis.
+
+Previously, I received my B.S. and M.S. at KAIST and researched prediction models for complex semiconductor tools.  Before coming to Northeastern, I worked as a software engineer and systems administrator at Samsung Electronics.

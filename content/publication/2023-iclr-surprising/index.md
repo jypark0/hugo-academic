@@ -8,13 +8,13 @@ authors:
   - Robin Walters
   - Robert Platt
 
-date: 2022-11-11
+date: 2023-01-21
 publishdate: ''
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "International Conference on Learning Representations"
-publication_short: In *ICLR*, (Spotlight)
+publication_short: In *ICLR*, **(notable-top-25%)**
 
 abstract: "Extensive work has demonstrated that equivariant neural networks can significantly improve sample efficiency and generalization by enforcing an inductive bias in the network architecture. These applications typically assume that the domain symmetry is fully described by explicit transformations of the model inputs and outputs. However, many real-life applications contain only latent or partial symmetries which cannot be easily described by simple transformations of the input. In these cases, it is necessary to learn symmetry in the environment instead of imposing it mathematically on the network architecture. We discover, surprisingly, that imposing equivariance constraints that do not exactly match the domain symmetry is very helpful in learning the true symmetry in the environment. We differentiate between extrinsic and incorrect symmetry constraints and show that while imposing incorrect symmetry can impede the model's performance, imposing extrinsic symmetry can actually improve performance. We demonstrate that an equivariant model can significantly outperform non-equivariant methods on domains with latent symmetries both in supervised learning and in reinforcement learning for robotic manipulation and control problems."
 
