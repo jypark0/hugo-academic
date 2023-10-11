@@ -17,8 +17,8 @@ organizations:
 bio: ""
 
 interests:
-- Deep Reinforcement Learning
 - Symmetry and Equivariance
+- Imitation Learning
 - Representation Learning
 
 # Education to show in About widget
