@@ -36,6 +36,10 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
+links:
+- name: Talk
+  url: 'https://slideslive.com/38983753/learning-symmetric-embeddings-networks-for-equivariant-world-models?ref=speaker-55009'
+
 url_pdf: 'https://arxiv.org/abs/2204.11371'
 url_code: 'https://github.com/jypark0/sen'
 url_dataset:

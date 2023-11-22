@@ -31,14 +31,18 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: 
-url_code: 
+links:
+- name: Website
+  url: 'https://jypark0.github.io/hermes/'
+
+url_pdf: 'https://arxiv.org/abs/2310.19589'
+url_code: 'https://github.com/jypark0/hermes'
 url_dataset:
 url_poster: 
 url_project:
 url_slides:
 url_source:
-url_video:
+url_video: 'https://youtu.be/2o26wIhDaro'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
