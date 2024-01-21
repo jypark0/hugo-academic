@@ -72,8 +72,8 @@ highlight_name: true
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: []
 ---
+Research intern @ [Boston Dynamics AI Institute](https://theaiinstitute.com/), PhD candidate @ [Northeastern University](https://northeastern.edu).
 
-I am a Ph.D. candidate at the [GRAIL Lab](https://www.ccs.neu.edu/home/lsw/grail.html) and Geometric Learning Lab at Northeastern University, advised by [Lawson Wong](https://www.ccs.neu.edu/home/lsw/) and [Robin Walters](https://www.khoury.northeastern.edu/people/robin-walters/).
-My research interests are in deep reinforcement learning and symmetry. I aim to apply strong inductive biases like symmetry to learning algorithms so that they can be more efficient and generalize. I've also worked on making imitation learning more robust with learned dynamics models and on multiresolution tensor models for spatial analysis.
+I am a Ph.D. candidate at the [GRAIL Lab](https://www.ccs.neu.edu/home/lsw/grail.html) and [Geometric Learning Lab](http://www.robinwalters.com/pages/geometric-learning-lab.html) at Northeastern University, advised by [Lawson Wong](https://www.ccs.neu.edu/home/lsw/) and [Robin Walters](http://www.robinwalters.com/index.html). My research interests are in imitation learning and symmetry. I aim to apply strong inductive biases like symmetry or expert demonstrations to learning algorithms so that they can be more efficient and generalize. I've also worked on making imitation learning more robust with learned dynamics models, predicting complex dynamics over meshes, and on multiresolution tensor models for spatial analysis.
 
-Previously, I received my B.S. and M.S. at KAIST and researched prediction models for complex semiconductor tools.  Before coming to Northeastern, I worked as a software engineer and systems administrator at Samsung Electronics.
+Previously, I received my B.S. and M.S. at [KAIST](https://www.kaist.ac.kr/en/) and researched prediction models for complex semiconductor tools.  Before coming to Northeastern, I worked as a software engineer and systems administrator at [Samsung Electronics](https://semiconductor.samsung.com/).
