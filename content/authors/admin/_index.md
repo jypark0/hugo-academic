@@ -72,7 +72,6 @@ highlight_name: true
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: []
 ---
-Research intern @ [JP Morgan Chase AI Research](https://www.jpmorgan.com/technology/artificial-intelligence), PhD candidate @ [Northeastern University](https://northeastern.edu).
 
 I am a Ph.D. candidate at the [GRAIL Lab](https://www.ccs.neu.edu/home/lsw/grail.html) and [Geometric Learning Lab](http://www.robinwalters.com/pages/geometric-learning-lab.html) at Northeastern University, advised by [Lawson Wong](https://www.ccs.neu.edu/home/lsw/) and [Robin Walters](http://www.robinwalters.com/index.html). My research interests are in imitation learning and symmetry. I aim to apply strong inductive biases like symmetry or expert demonstrations to learning algorithms so that they can be more efficient and generalize. I've also worked on making imitation learning more robust with learned dynamics models, predicting complex dynamics over meshes, and on multiresolution tensor models for spatial analysis.
 
