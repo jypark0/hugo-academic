@@ -11,7 +11,7 @@ role: Ph.D. Student
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Northeastern University
-  url: "https://www.ccs.neu.edu/home/lsw/grail.html"
+  url: "https://www.khoury.northeastern.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
@@ -75,4 +75,4 @@ user_groups: []
 
 I am a Ph.D. candidate at the [GRAIL Lab](https://www.ccs.neu.edu/home/lsw/grail.html) and [Geometric Learning Lab](http://www.robinwalters.com/pages/geometric-learning-lab.html) at Northeastern University, advised by [Lawson Wong](https://www.ccs.neu.edu/home/lsw/) and [Robin Walters](http://www.robinwalters.com/index.html). My research interests are in imitation learning and symmetry. I aim to apply strong inductive biases like symmetry or expert demonstrations to learning algorithms so that they can be more efficient and generalize. I've also worked on making imitation learning more robust with learned dynamics models, predicting complex dynamics over meshes, and on multiresolution tensor models for spatial analysis.
 
-Previously, I received my B.S. and M.S. at [KAIST](https://www.kaist.ac.kr/en/) and researched prediction models for complex semiconductor tools.  Before coming to Northeastern, I worked as a software engineer and systems administrator at [Samsung Electronics](https://semiconductor.samsung.com/).
+**I am currently on the job market for industry research positions, please see my [CV](files/cv.pdf). Feel free to reach out at park.jungy at northeastern dot edu.**
