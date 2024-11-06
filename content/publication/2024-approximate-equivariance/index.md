@@ -9,7 +9,7 @@ authors:
   - Sumitra Ganesh
   - Robin Walters
 
-date: 2024-11-08
+date: 2024-11-06
 publishdate: ''
 publication_types: ["1"]
 
@@ -33,6 +33,9 @@ featured: false
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
+
+links:
+- name: PDF coming soon
 
 url_pdf: ''
 url_code: 

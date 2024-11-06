@@ -37,7 +37,7 @@ featured: false
 url_pdf: 'https://openreview.net/pdf?id=oYD6E6pDWS'
 url_code: 
 url_dataset:
-url_poster: ''
+url_poster: 'publication/2024-wafr-sampling/poster.pdf'
 url_project:
 url_slides:
 url_source:
