@@ -34,10 +34,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-links:
-- name: PDF coming soon
-
-url_pdf: ''
+url_pdf: 'https://arxiv.org/abs/2411.04225'
 url_code: 
 url_dataset:
 url_poster: ''
